@@ -1,4 +1,4 @@
-# Authorization Server Project Setup and Running
+# Wallet Project Setup
 
 ## Requirements
 
